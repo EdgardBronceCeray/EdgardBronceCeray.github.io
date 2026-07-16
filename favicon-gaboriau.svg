@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Page not found — Edgard Bronce-Ceray</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,500;1,400&family=Inter:wght@500;600&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#08090C;color:#E6DCCB;font-family:'Cormorant Garamond',Georgia,serif;min-height:100vh;display:flex;align-items:center;justify-content:center;text-align:center;padding:2rem;line-height:1.7}
+.n{font-family:'Inter',sans-serif;font-size:.62rem;font-weight:600;letter-spacing:.34em;text-transform:uppercase;color:#BF9430;border:1px solid #BF9430;border-radius:2px;display:inline-block;padding:.35rem 1rem;margin-bottom:2rem}
+h1{font-size:clamp(2.2rem,6vw,3.4rem);font-weight:300;margin-bottom:.8rem}
+p{font-style:italic;font-size:1.2rem;color:#A79A8C;max-width:440px;margin:0 auto 2.2rem}
+a{font-family:'Inter',sans-serif;font-size:.68rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;color:#BF9430;border:1px solid rgba(191,148,48,.5);border-radius:2px;padding:.7rem 1.5rem;transition:all .2s}
+a:hover{background:#BF9430;color:#0A0709}
+</style>
+</head>
+<body>
+<div>
+<span class="n">Edgard Bronce-Ceray</span>
+<h1>404</h1>
+<p>This page has slipped away down a secret passage.</p>
+<a href="/">Return to the library</a>
+</div>
+</body>
+</html>
